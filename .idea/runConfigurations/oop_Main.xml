@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="oop.iml" type="Java Scratch" singleton="false">
+  <configuration default="false" name="oop Main" type="Java Scratch" editBeforeRun="true" singleton="false">
     <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-    <option name="MAIN_CLASS_NAME" value="Main.java" />
+    <option name="MAIN_CLASS_NAME" value="oop Main" />
     <module name="oop" />
     <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$" />
     <shortenClasspath name="NONE" />

@@ -8,9 +8,10 @@ public class Main {
         {
             System.out.println("Unlucky");
         }
-        programmer pr=new programmer();
+        Programmer pr=new Programmer();
         pr.setName("Zain");
         pr.setAge(23);
+        Programmer pr0=new Programmer("Laila",20);
         if(Jop.recruiting)
         {
             System.out.println("Lucky");
