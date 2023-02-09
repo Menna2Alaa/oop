@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        if(Jop.recruiting==true)
+        if(Jop.recruiting)
         {
             System.out.println("Lucky");
         }
