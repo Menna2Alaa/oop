@@ -10,8 +10,11 @@ public class Main {
         }
         Programmer pr=new Programmer();
         pr.setName("Zain");
+        System.out.println(pr.getName());
         pr.setAge(23);
+        System.out.println(pr.getAge());
         Programmer pr0=new Programmer("Laila",20);
+        System.out.println(pr0);
         if(Jop.recruiting)
         {
             System.out.println("Lucky");
