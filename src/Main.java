@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        if(Jop.recruiting==true)
+        if(Jop.recruiting)
         {
             System.out.println("Lucky");
         }
@@ -11,7 +11,7 @@ public class Main {
         programmer pr=new programmer();
         pr.setName("Zain");
         pr.setAge(23);
-        if(Jop.recruiting==true)
+        if(Jop.recruiting)
         {
             System.out.println("Lucky");
         }
